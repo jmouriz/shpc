@@ -1,0 +1,3 @@
+TODO
+
+- Atrapar la señal de interrupción en el binario generado para asegurar el borrado del archivo temporal. signal(2)
